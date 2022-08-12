@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Anushikha12/react-assgn-2.git/static/css/main.177d1841.css",
-    "main.js": "/Anushikha12/react-assgn-2.git/static/js/main.363827c0.js",
-    "index.html": "/Anushikha12/react-assgn-2.git/index.html",
-    "main.177d1841.css.map": "/Anushikha12/react-assgn-2.git/static/css/main.177d1841.css.map",
-    "main.363827c0.js.map": "/Anushikha12/react-assgn-2.git/static/js/main.363827c0.js.map"
+    "main.css": "/react-assgn-2/static/css/main.177d1841.css",
+    "main.js": "/react-assgn-2/static/js/main.363827c0.js",
+    "index.html": "/react-assgn-2/index.html",
+    "main.177d1841.css.map": "/react-assgn-2/static/css/main.177d1841.css.map",
+    "main.363827c0.js.map": "/react-assgn-2/static/js/main.363827c0.js.map"
   },
   "entrypoints": [
     "static/css/main.177d1841.css",
